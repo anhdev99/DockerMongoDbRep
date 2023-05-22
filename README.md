@@ -2,7 +2,7 @@
 
 Nhớ cài docker trước khi chạy script.
 
-## For Windows
+## For Macos Or Linux
 
 1. Sử dụng Git cmd để run script
 
@@ -14,8 +14,7 @@ Nhớ cài docker trước khi chạy script.
 
 6. sh startdb.sh
 
-
-## For Macos Or Linux
+## For Windows
 
 1. Sử dụng terminal để run script
 
